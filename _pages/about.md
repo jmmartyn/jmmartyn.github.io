@@ -29,7 +29,7 @@ My primary focus was federal policy for immigration reform. In collaboration wit
 
 
 
-**Science Videography:** If a picture speaks a thousand words, then a video paints a thousand pictures! This is especially true in science communication, where video is a remarkably effective medium for teaching a wide audience. With this in mind, I’ve started making animated research talk videos, aimed at presenting research results in an intuitive and engaging format; see my channel here: [youtube.com/@JohnMMartyn](https://www.youtube.com/@JohnMMartyn). I hope to keep developing this passion going forward!
+**Science Videography:** If a picture speaks a thousand words, then a video paints a thousand pictures! This is especially true in science communication, where video is a remarkably effective medium for teaching a wide audience. With this in mind, I’ve started making animated research talk videos, aimed at presenting research in an intuitive and engaging format; see my channel here: [youtube.com/@JohnMMartyn](https://www.youtube.com/@JohnMMartyn). I hope to keep developing this passion going forward!
 
 
 

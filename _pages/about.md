@@ -1,15 +1,51 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I’m a Quantum Initiative Fellow at Harvard University, and a Staff Scientist of Pacific Northwest National Lab. Before this, I received my PhD in physics from MIT, advised by Isaac Chuang. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+
+**Research:** The future of computation is bound to be exciting, but we will need to imagine it before we can build it! Innovations in quantum information, paired with creative algorithm design, will certainly be driving forces in these developments. 
+
+In my research, I do just this imagining: I explore theoretical aspects of quantum information, with the central goal of developing new methods to study complex quantum systems and solve hard computational problems. I pursue this on two fronts by designing both quantum and classical algorithms, often benefiting from the symbiotic relationship between these areas. 
+
+For a comprehensive list of my work and publications, see my CV. For further information, see my profiles on Google Scholar and InspireHEP. 
+
+
+
+**About Me:** During my studies, I had the pleasure of interning at IBM Quantum and at (Google) X, the Moonshot Factory. In the beforetimes, I received my BS in physics from the University of Maryland, College Park, and also worked as a student researcher at Caltech. 
+
+
+
+**Science Policy:** Outside of research, I’m a strong advocate for policy that fosters a healthy scientific enterprise. For several years, I helped lead the political advocacy branch of the MIT Graduate Student Council, where we worked to implement policies that benefit graduate students, education, and research. 
+
+My primary focus was federal policy for immigration reform. In collaboration with the U.S. Citizenship and Immigration Services (USCIS) and the White House Office of Science and Technology Policy, I led a successful effort to modernize the O-1A visa to better recognize junior scientists and researchers. Our recommended changes were adopted into the USCIS guidance in early January 2025. For details on this effort and its implications, see our letter to USCIS, the agency’s subsequent statement on policy guidance updates, and the updated guidance in the USCIS policy manual. 
+
+
+
+**Science Videography:** If a picture speaks a thousand words, then a video paints a thousand pictures. This is especially true in science communication, where video is a remarkably effective medium for teaching a wide audience. With this in mind, I’ve started making animated research talk videos, aimed at presenting research results in an intuitive and engaging format; see my channel here: youtube.com/@JohnMMartyn. I hope to keep developing this passion going forward!
+
+
+
+**And Beyond:** When I’m not doing something science-adjacent, you can often find me skateboarding.
+
+
+
+**Contact:** If you’d like to get in touch, feel free to reach out at john_martyn AT fas.harvard.edu. 
+
+
+
+
+
+
+# commenting out the below text
+<!--
 
 A data-driven personal website
 ======
@@ -53,4 +89,7 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
+
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->

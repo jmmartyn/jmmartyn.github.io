@@ -19,7 +19,7 @@ For a comprehensive list of my work and publications, see [my CV](https://jmmart
 
 
 
-**About Me:** During my studies, I had the pleasure of interning at IBM Quantum and at (Google) X, the Moonshot Factory. In the beforetimes, I received my BS in physics from the University of Maryland, College Park, and also worked as a student researcher at Caltech. 
+**About Me:** I graduated in May 2025, with a thesis titled “The Algorithmic Cookbook of Quantum Science: Quantum and Classical Recipes for Computation”. During my studies, I had the pleasure of interning at IBM Quantum and at (Google) X, the Moonshot Factory. In the beforetimes, I received my BS in physics from the University of Maryland, College Park, and also worked as a student researcher at Caltech. 
 
 
 

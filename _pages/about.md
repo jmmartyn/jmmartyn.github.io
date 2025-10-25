@@ -13,7 +13,7 @@ I’m a Quantum Initiative Fellow at Harvard University, and a Staff Scientist o
 
 **Research:** The future of computation is bound to be exciting, but we will need to imagine it before we can build it! Innovations in quantum information, paired with creative algorithm design, will certainly be driving forces in these developments. 
 
-In my research, I do just this imagining: I explore theoretical aspects of quantum information, with the central goal of developing new methods to study complex quantum systems and solve hard computational problems. I pursue this on two fronts by designing both quantum and classical algorithms, often benefiting from the symbiotic relationship between these areas. 
+In my research, I do just this imagining: I explore theoretical aspects of quantum information, with the central goal of developing new methods to study complex quantum systems and solve hard computational problems. I pursue this on two fronts by designing both quantum and classical algorithms, often benefiting from the symbiotic relationship between these areas. On the quantum side, I study methods such as quantum signal processing and quantum simulation; on the classical side, I work with tensor networks, machine-learning-based simulation, and quantum Monte Carlo.
 
 For a comprehensive list of my work and publications, see [my CV](https://jmmartyn.github.io/files/CV_current.pdf) or my [Google Scholar profile](https://scholar.google.com/citations?user=d-QUapAAAAAJ). 
 

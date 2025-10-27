@@ -18,7 +18,7 @@ In my research, I do just this imagining: I explore theoretical aspects of quant
 On the quantum side, I study methods such as quantum signal processing and quantum simulation; on the classical side, I work with tensor networks, machine-learning-based simulation, and quantum Monte Carlo. In exploring these complementary approaches, my goal is to better resolve the capabilities of quantum and classical computation, and more sharply demarcate the boundary of quantum advantage.
 
 
-For a comprehensive list of my work and publications, see [my CV](https://jmmartyn.github.io/files/CV_current.pdf). For further information, see my profiles on [Google Scholar](https://scholar.google.com/citations?user=d-QUapAAAAAJ) or [Inspire-HEP](https://inspirehep.net/authors/3072763).
+For a comprehensive list of my work and publications, see [my CV](https://jmmartyn.github.io/files/CV_current.pdf). For further information, see my profiles on [Google Scholar](https://scholar.google.com/citations?user=d-QUapAAAAAJ) and [Inspire-HEP](https://inspirehep.net/authors/3072763).
 
 
 

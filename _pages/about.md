@@ -18,7 +18,7 @@ In my research, I do just this imagining: I explore theoretical aspects of quant
 On the quantum side, I study methods such as quantum signal processing and quantum simulation; on the classical side, I work with tensor networks, machine-learning-based simulation, and quantum Monte Carlo. In exploring these complementary approaches, my goal is to better resolve the capabilities of quantum and classical computation, and more sharply demarcate the boundary of quantum advantage.
 
 
-For a comprehensive list of my work and publications, see [my CV](https://jmmartyn.github.io/files/CV_current.pdf) or [my Google Scholar profile](https://scholar.google.com/citations?user=d-QUapAAAAAJ). 
+For a comprehensive list of my work and publications, see [my CV](https://jmmartyn.github.io/files/CV_current.pdf). For further information, see my profiles on [Google Scholar](https://scholar.google.com/citations?user=d-QUapAAAAAJ) or [Inspire-HEP](https://inspirehep.net/authors/3072763).
 
 
 
@@ -29,6 +29,8 @@ For a comprehensive list of my work and publications, see [my CV](https://jmmart
 **Science Policy:** Outside of research, I’m a strong advocate for policy that fosters a healthy scientific enterprise. For several years, I helped lead the [political advocacy branch of the MIT Graduate Student Council](https://sites.mit.edu/gsc-eab/), where we worked to implement policies that benefit graduate students, education, and research. 
 
 My primary focus was federal policy for immigration reform. In collaboration with the U.S. Citizenship and Immigration Services (USCIS) and the White House Office of Science and Technology Policy, I led a successful effort to modernize the [O-1A visa](https://www.uscis.gov/working-in-the-united-states/temporary-workers/o-1-visa-individuals-with-extraordinary-ability-or-achievement) to better recognize junior scientists. Our recommended changes were adopted into the USCIS guidance in early January 2025. For details on this effort, see [our letter to USCIS](https://drive.google.com/file/d/1xazKByg60IfIagfiGiBTUINEFxeLB-ty/view), the agency’s subsequent [statement on policy guidance updates](https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20250108-ExtraordinaryAbility.pdf), and the [updated guidance](https://www.uscis.gov/policy-manual/volume-2-part-m-chapter-4) in the USCIS policy manual. 
+
+Alas, I’m not particularly optimistic about positive change at the federal level for a while, so I’m more focused on state and local governance for now. 
 
 
 

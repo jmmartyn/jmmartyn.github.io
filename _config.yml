@@ -24,8 +24,8 @@ repository               : #"jmmartyn/jmmartyn.github.io"
 author:
   # Biographic information
   avatar           : "RLE_Photoshoot-2_square.png"
-  name             : "John M. Martyn"
-  pronouns         : "he/him"  
+  name             : #"John M. Martyn"
+  pronouns         : #"he/him"  
   bio              : "john_martyn AT fas.harvard.edu"
   location         : # "Earth"
   employer         : "Harvard University & PNNL"

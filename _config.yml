@@ -30,7 +30,7 @@ author:
   location         : # "Earth"
   employer         : "Harvard University & PNNL"
   uri              : # URL
-  email            : "john_martyn AT fas.harvard.edu" 
+  email            : # "" 
 
   # Academic websites
   academia         : # URL

@@ -22,11 +22,6 @@ For a comprehensive list of my work and publications, see [my CV](https://jmmart
 
 
 
-
-**Contact:** If you’d like to get in touch, feel free to reach out at john_martyn AT fas.harvard.edu
-
-
-
 **About Me:** I graduated in May 2025 with a thesis titled *The Algorithmic Cookbook of Quantum Science: Quantum and Classical Recipes for Computation*. During my studies, I had the pleasure of interning at IBM Quantum and at (Google) X, the Moonshot Factory. In the beforetimes, I received my BS in physics from the University of Maryland, College Park, and also worked as a student researcher at Caltech. 
 
 
@@ -47,7 +42,7 @@ Alas, I’m not particularly optimistic about positive change at the federal lev
 
 
 
-
+**Contact:** If you’d like to get in touch, feel free to reach out at john_martyn AT fas.harvard.edu
 
 
 

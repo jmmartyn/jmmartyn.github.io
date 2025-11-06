@@ -10,7 +10,10 @@
 main:
   - title: "CV"
     url: /files/CV_current.pdf
-
+    
+  - title: "TEST"
+    url: /nmp/
+    
   #- title: "About Me"
   #  url: /aboutme/  
     

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Quantum Initiative Fellow at Harvard University, and a Staff Scientist of Pacific Northwest National Lab. Before this, I received my PhD in physics from MIT, advised by Isaac Chuang. 
+I’m a Quantum Initiative Fellow at Harvard University, and a Staff Scientist of Pacific Northwest National Lab. Before this, I received my PhD in physics from MIT, advised by Isaac Chuang.
 
 
 

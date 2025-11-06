@@ -3,8 +3,8 @@ permalink: /
 title: "About Me"
 author_profile: true
 redirect_from: 
-  - /aboutme/
-  - /aboutme.html
+  - /aboutme_old/
+  - /aboutme_old.html
 ---
 
 

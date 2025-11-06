@@ -11,8 +11,8 @@ main:
   - title: "CV"
     url: /files/CV_current.pdf
 
-  - title: "About Me"
-    url: /aboutme/  
+  #- title: "About Me"
+  #  url: /aboutme/  
     
   #- title: "Publications"
   #url: /publications/

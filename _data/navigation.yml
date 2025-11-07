@@ -12,7 +12,7 @@ main:
     url: /files/CV_current.pdf
     
   - title: "TEST"
-    url: /non-menu-page2/
+    url: /more-info/
     
   #- title: "About Me"
   #  url: /aboutme/  

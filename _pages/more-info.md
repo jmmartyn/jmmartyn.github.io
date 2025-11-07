@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page2/
+permalink: /more-info/
 title: "About Me"
 author_profile: true
 redirect_from: 

@@ -9,7 +9,7 @@
 
 main:
   - title: "About Me"
-    url: _pages/more-info/
+    url: /more-info/
     
   - title: "CV"
     url: /files/CV_current.pdf

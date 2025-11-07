@@ -1,10 +1,9 @@
 ---
 permalink: /non-menu-page2/
-title: "Page not in menu"
+title: "Page not in menu2"
 author_profile: true
 redirect_from: 
   - "/nmp2/"
-  - "/nmp2.html"
 ---
 
 222 This is a page not in the menu. You can use markdown in this page.

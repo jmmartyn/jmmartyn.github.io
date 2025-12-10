@@ -8,7 +8,7 @@ redirect_from:
 
  
 
-**About Me:** I graduated in May 2025 with a thesis titled *The Algorithmic Cookbook of Quantum Science: Quantum and Classical Recipes for Computation*. During my studies, I had the pleasure of interning at IBM Quantum and at (Google) X, the Moonshot Factory. In the beforetimes, I received my BS in physics from the University of Maryland, College Park, and also worked as a student researcher at Caltech. 
+**About Me:** I graduated in May 2025 with a thesis titled [*The Algorithmic Cookbook of Quantum Science: Quantum and Classical Recipes for Computation*](https://dspace.mit.edu/handle/1721.1/164167). During my studies, I had the pleasure of interning at IBM Quantum and at (Google) X, the Moonshot Factory. In the beforetimes, I received my BS in physics from the University of Maryland, College Park, and also worked as a student researcher at Caltech. 
 
 
 
@@ -16,7 +16,7 @@ redirect_from:
 
 My primary focus was federal policy for immigration reform. In collaboration with the U.S. Citizenship and Immigration Services (USCIS) and the White House Office of Science and Technology Policy, I led a successful effort to modernize the [O-1A visa](https://www.uscis.gov/working-in-the-united-states/temporary-workers/o-1-visa-individuals-with-extraordinary-ability-or-achievement) to better recognize junior scientists. Our recommended changes were adopted into the USCIS guidance in early January 2025. For details on this effort, see [our letter to USCIS](https://drive.google.com/file/d/1xazKByg60IfIagfiGiBTUINEFxeLB-ty/view), the agency’s subsequent [statement on policy guidance updates](https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20250108-ExtraordinaryAbility.pdf), and the [updated guidance](https://www.uscis.gov/policy-manual/volume-2-part-m-chapter-4) in the USCIS policy manual. 
 
-Alas, I’m not too optimistic about progress at the federal level for a while, so I’m more focused on state and local governance for now. 
+Alas, I’m not too optimistic about near-term progress at the federal level, so I’m more interested on state and local governance for now. 
 
 
 

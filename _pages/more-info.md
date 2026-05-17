@@ -16,7 +16,7 @@ redirect_from:
 
 My primary focus was expanding and modernizing immigration pathways for scientists in the United States. In collaboration with the U.S. Citizenship and Immigration Services (USCIS) and the White House Office of Science and Technology Policy, I led a successful effort to modernize the [O-1A visa](https://www.uscis.gov/working-in-the-united-states/temporary-workers/o-1-visa-individuals-with-extraordinary-ability-or-achievement) to better recognize junior scientists. Our recommended changes were adopted into the USCIS guidance in early January 2025. For details on this effort, see [our letter to USCIS](https://drive.google.com/file/d/1xazKByg60IfIagfiGiBTUINEFxeLB-ty/view), the agency’s subsequent [statement on policy guidance updates](https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20250108-ExtraordinaryAbility.pdf), and the [updated guidance](https://www.uscis.gov/policy-manual/volume-2-part-m-chapter-4) in the USCIS policy manual. 
 
-Alas, I’m less optimistic about near-term progress at the federal level, so I’m more interested on state and local governance for now. 
+
 
 
 

@@ -20,7 +20,7 @@ For a comprehensive list of my work and publications, see [my CV](https://jmmart
 
 
 
-**Contact:** If you’d like to get in touch, feel free to reach out at john_martyn AT fas.harvard.edu
+**Contact:** If you’d like to get in touch, feel free to reach out at john_martyn AT fas.harvard.edu or john.martyn AT pnnl.gov
 
 
 
